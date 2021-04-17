@@ -1,5 +1,6 @@
 *.bin
 
 /.idea
-
+/venv
+/Lab2-LanguageModelling/sentence-completion
 *solution.ipynb

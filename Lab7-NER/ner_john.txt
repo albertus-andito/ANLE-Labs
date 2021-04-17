@@ -1,0 +1,18 @@
+1	John	John	NNP	PERSON	_	_
+2	Smith	Smith	NNP	PERSON	_	_
+3	is	be	VBZ	O	_	_
+4	a	a	DT	O	_	_
+5	student	student	NN	O	_	_
+6	at	at	IN	O	_	_
+7	Sussex	Sussex	NNP	ORGANIZATION	_	_
+8	University	University	NNP	ORGANIZATION	_	_
+9	in	in	IN	O	_	_
+10	the	the	DT	O	_	_
+11	UK	UK	NNP	LOCATION	_	_
+12	.	.	.	O	_	_
+
+1	He	he	PRP	O	_	_
+2	likes	like	VBZ	O	_	_
+3	Coldplay	Coldplay	NNP	PERSON	_	_
+4	.	.	.	O	_	_
+

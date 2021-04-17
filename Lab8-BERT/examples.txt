@@ -1,0 +1,35 @@
+The boy kicks the ball.
+The ball kicks the boy.
+The child kicks the ball.
+The ball is kicked by the boy.
+The ball is kicked.
+The boy kicks.
+The child kicks.
+The boy kicks a round object.
+The male child kicks the ball.
+The boy is playing football.
+The boy hits the ball.
+The ball hits the boy.
+The boy is hit by the ball.
+The ball is hit by the boy.
+The female child kicks the ball.
+The girl kicks the ball.
+The child plays with dolls.
+The female child plays with dolls.
+The male child plays with dolls.
+The girl plays with dolls.
+The boy plays with dolls.
+The boy is kicking the ball.
+The boy is not kicking the ball.
+All boys kick balls.
+Every boy kicks a ball.
+There is a boy kicking a ball.
+There is not a boy kicking a ball.
+I can see a boy kicking a ball.
+I cannot see a boy kicking a ball.
+I believe the boy is kicking the ball.
+No boys kick balls.
+Boys do not kick balls.
+Boys always kick balls.
+I can see a male child kicking a ball.
+I can see a girl kicking a ball.

@@ -1,0 +1,16 @@
+0,John,PERSON
+1,Smith,PERSON
+2,is,O
+3,a,O
+4,student,TITLE
+5,at,O
+6,Sussex,ORGANIZATION
+7,University,ORGANIZATION
+8,in,O
+9,the,O
+10,UK,COUNTRY
+11,.,O
+12,He,O
+13,likes,O
+14,Coldplay,PERSON
+15,.,O

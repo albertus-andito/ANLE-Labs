@@ -1,0 +1,41 @@
+1 UK LOCATION
+2 singer O
+3 Adele PERSON
+4 has O
+5 finalised O
+6 her O
+7 divorce O
+8 from O
+9 ex O
+10 husband O
+11 Simon PERSON
+12 Konecki PERSON
+13 , O
+14 Los LOCATION
+15 Angeles LOCATION
+16 court O
+17 papers O
+18 have O
+19 shown O
+20 . O
+
+The Brit and Grammy-winner separated from the charity boss in April 2019.
+1 The O
+2 Brit ORGANIZATION
+3 and O
+4 Grammy ORGANIZATION
+5
+
+Now, documents obtained by the PA news agency have confirmed the pair will share custody of their eight-year-old son Angelo.
+
+Much of the divorce settlement, which was arranged through mediation, remains confidential and neither party will be paying spousal support.
+
+Adele gave birth to the couple's son in 2012, and later married the former investment banker in secret after dating for years.
+
+She referred to him as "my husband" during a Grammys acceptance speech in early 2017, but court documents show the pair were wed in 2018.
+
+They announced their separation in 2019, saying they were "committed to raising their son together lovingly". Divorce papers were filed in September that year.
+
+A representative for the singer, who is currently working on new music, previously said: "As always they ask for privacy. There will be no further comment."
+
+Adele, whose hit singles include Hello, Somebody Like You and Chasing Pavements, was recently named the UK's best-selling female album artist of the century.
